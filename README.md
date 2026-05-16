@@ -28,6 +28,8 @@ A 3D Rubik’s Cube visualizer and solver built using Ursina and Python.
 
 Hold `Shift` while pressing a key for inverse (prime) moves.
 
+Press `Tab` to switch between 3D and 2D modes
+
 ---
 
 ## 📥 Installation
