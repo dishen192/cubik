@@ -72,12 +72,16 @@ python main.py
 
 ## 📸 Screenshots
 
+#### 3D Cube
 ![3D Cube](src/3D_solved.png)
 
+#### 2D Cube
 ![2D View](src/2D_solved.png)
 
+#### Scramble
 ![Scramble](src/scramble.gif)
 
+#### Pattern
 ![Pattern](src/pattern.png)
 
 ---
